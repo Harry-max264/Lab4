@@ -2,13 +2,20 @@
   "agent": {
     "name": "Promethean Technology Classification Agent",
     "specialty": "Scale and breadth of technological significance",
-    "version": "1.0"
+    "version": "1.1"
   },
   "analytical_question": "Is the technology incremental, breakthrough or potentially Promethean, and how much should that influence this application decision?",
-  "general_et_finding": "Breakthrough with potentially Promethean significance, qualified rather than established. Baseline: conventional templates, search and narrowly scripted text automation. Capability: flexible generation shows a meaningful task capability; S1 supplies field evidence of useful assistance. Breadth: S2 models effects across occupations, not realized cross-sector deployment. Structural depth: complementary software could reorganize knowledge work, an inference rather than a demonstrated civilizational transition. Diffusion/complements: integration, skills, trusted data and governance are necessary; supplied evidence does not establish critical mass. Durability: long-term net effects are unresolved. Over a 10-20 year horizon, Promethean potential is plausible with low-to-moderate confidence; breakthrough is better supported. No claim that civilization-changing outcomes are inevitable.",
+  "general_et_finding": "Potential Promethean, prospective and qualified, following the Chapter 11 calibration (S0); not Confirmed. System: deployed generative text systems, not an isolated model component. Barrier statement: producing new fluent text or working analyses generally required human cognitive effort; this tied scalable cognitive production to available human attention. AI generation may loosen that coupling, but reliable work still needs checking, so dissolution is conditional rather than universal. Suppression test: the supplied evidence does not establish collapse of mature societal infrastructure if these systems disappeared; a retailer could return to manual drafting. That local reversion cannot alone settle the broad technology classification. Tiers: economic production and cognitive/social access are plausible affected tiers, not two empirically confirmed dissolutions. Conditional six-criterion assessment: Order of magnitude - Not established by this empirical snapshot; S1 task gains do not prove a tenfold change. Widespread impact - Provisional, S2 models occupational exposure rather than observed multi-tier transformation. Paradigm shift - Provisional, generation challenges human-only production but still requires oversight. Catalytic effect - Provisional, S2 identifies complementary software as a pathway rather than documenting a mature innovation cascade. Democratizing effect - Provisional, S1 shows heterogeneous assistance benefits, not universal access. Irreversibility - Not established. Critical mass and converging skills, data, infrastructure and institutions are not demonstrated here. The course author rates the first five criteria more strongly; this independent evidence snapshot supports a more cautious conditional assessment. Moderate confidence in the usefulness of the course classification, low confidence in realized civilizational transformation over 10-20 years. Without accepting S0 as a provisional calibration, withhold the higher label pending independent barrier and tier evidence; at most a breakthrough hypothesis is supported.",
   "application_finding": "Reply drafting could improve a bounded workflow; this is locally incremental operational value, not evidence that the application is civilization-changing.",
   "organization_specific_finding": "The retailer has an approved knowledge base and human review, supporting reversible learning; its aggressive posture changes willingness to experiment, not technological significance.",
   "evidence": [
+    {
+      "claim": "Chapter 11 supplies the classification instrument and calibrates generative AI as Potential Promethean while leaving mature irreversibility unresolved.",
+      "source_or_reference": "S0: Andres Fortino, Chapter11_Identifying_Promethean_Technologies_v0.1_WITH_FIGURES(1).docx, August 2026 Rev 0.1, sections 11.2, 11.3, 11.7",
+      "date_or_recency": "Student-provided classroom reading; full extracted text read 2026-10-19",
+      "evidence_type": "Assigned course framework and author interpretation",
+      "notes": "Framework source, not independent empirical verification; not redistributed in this public repository."
+    },
     {
       "claim": "A field study reports heterogeneous customer-support productivity gains with AI assistance.",
       "source_or_reference": "Brynjolfsson, Li and Raymond, Generative AI at Work, https://arxiv.org/abs/2304.11771v2",
@@ -35,20 +42,23 @@
     "S1 is one customer-support setting with heterogeneous gains; transfer and net local benefit are unproven.",
     "S2 is modeled task exposure, not demonstrated structural change, adoption timing or job displacement.",
     "S3 identifies reliability and governance problems; durable benefits depend on complements and controls.",
-    "The evidence snapshot is limited and older than the review date; no comprehensive latest-market assessment or course Chapter 11 text was available.",
-    "The sponsor demand offers no verified evidence. Funding and headlines cannot establish structural depth or justify immediate rollout."
+    "The sponsor demand offers no verified evidence. Funding and headlines cannot establish structural depth or justify immediate rollout.",
+    "The suppression test does not yet establish mature dependency or irreversible multi-tier dissolution; the higher classification is conditional on the course calibration.",
+    "S1 compares assisted support with the existing workflow; it is not a tenfold benchmark or a head-to-head test against optimized templates."
   ],
-  "confidence_and_uncertainty": "Moderate confidence in breakthrough; low-to-moderate confidence in Promethean potential; low confidence in unmeasured local ROI. General confidence is unchanged by organizational posture.",
+  "confidence_and_uncertainty": "Moderate confidence that Potential Promethean is a useful prospective course classification, low confidence that durable multi-tier dissolution is already realized. Evidence grades remain provisional or not established. Local ROI is unmeasured. Organizational posture does not change this uncertainty.",
   "value_opportunity_implication": "Learning about response quality and staff effort may have option value; compare benefits after reviewer time and integration cost.",
   "risk_governance_implication": "Keep a human responsible for every outbound answer; restrict data and tools, audit factual errors, and route exceptions to staff. Risk guidance is not compliance certification.",
   "recommendation_management_implication": "From this specialist perspective, consider a bounded human-reviewed pilot, subject to value and risk review. Broad significance supports learning, not automatic rollout.",
   "change_monitoring_triggers": [
     "Reassess after the 8-week pilot against pre-agreed quality, total effort and cost baselines; management must set acceptance thresholds before running.",
     "Pause customer-facing use for a material privacy incident or repeated unsupported answers; investigate before restarting.",
-    "Revisit broad classification when replicated cross-sector evidence demonstrates persistent structural change or undermines the claimed mechanism."
+    "Revisit broad classification when replicated cross-sector evidence demonstrates persistent structural change or undermines the claimed mechanism.",
+    "Reassess six criteria when independently measured access/cost gains, multi-tier adoption, dependent innovations and suppression/dependency evidence become available."
   ],
   "abstention_or_more_information_needed": [
     "Do not endorse full rollout without local quality, cost, data-rights and operational evidence.",
-    "Reverify current model-specific capabilities and sources before a real management decision."
+    "Reverify current model-specific capabilities and sources before a real management decision.",
+    "Withhold an independently established Promethean finding until barrier dissolution, at least two tiers and infrastructure dependency are supported; never upgrade this emerging case to Confirmed."
   ]
 }

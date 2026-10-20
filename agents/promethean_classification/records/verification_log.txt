@@ -1,13 +1,12 @@
-Executed 2026-10-19 in development environment
-/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_contrast_1_prompt.txt
-contrast_1: VALIDATION PASSED
-/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_contrast_2_prompt.txt
-contrast_2: VALIDATION PASSED
-/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_hype_prompt.txt
-hype: VALIDATION PASSED
-/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_insufficient_prompt.txt
-insufficient: VALIDATION PASSED
-/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_primary_prompt.txt
-primary: VALIDATION PASSED
+PASS frozen schema keyword coverage for this bounded validator
+PASS contrast_1: full frozen input/output contract and version
+PASS contrast_2: full frozen input/output contract and version
+PASS hype: full frozen input/output contract and version
+PASS insufficient: full frozen input/output contract and version
+PASS primary: full frozen input/output contract and version
+EXPECTED FAILURE preserved v1: missing order of magnitude, widespread impact, paradigm shift, catalytic effect, democratizing effect, irreversibility, system:, barrier statement:, suppression test:, tiers:, prospective
+PASS v1.1: course gates and all six named criteria present in four general findings; manual semantic review still required
+PASS general finding invariant; three context-specific recommendations differ
+PASS posture-only control, insufficient-evidence abstention, hype rejection and hospital deferral
+PASS five regenerated packets include current instructions and exact cases; five common validators pass
 FROZEN CORE INTACT
-PASS: broad finding invariant across three contexts and hype; three contextual actions differ.

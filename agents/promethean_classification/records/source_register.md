@@ -17,4 +17,10 @@ NIST AI 600-1, https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf
 
 2024-07-26; report text inspected 2026-10-19. Generative AI can produce erroneous content and create overreliance and privacy risks. Sections 2.2, 2.4 and 2.7; risk taxonomy, not evidence of clinical efficacy or binding approval.
 
-NBER pages returned 403 on full-page retrieval; author-hosted arXiv abstract versions were inspected instead. No claim is made to have read the full research papers. Chapter 11 and lecture criteria were not provided.
+NBER pages returned 403 on full-page retrieval; author-hosted arXiv abstract versions were inspected instead. No claim is made to have read the full research papers. Chapter 11 was subsequently located and read during the compliance audit; see S0 below. Lecture-specific additions were not available.
+
+
+## S0 Course framework
+S0: Andres Fortino, Chapter11_Identifying_Promethean_Technologies_v0.1_WITH_FIGURES(1).docx, August 2026 Rev 0.1, sections 11.2, 11.3, 11.7
+
+Student-provided classroom reading; full extracted text read 2026-10-19. Chapter 11 supplies the classification instrument and calibrates generative AI as Potential Promethean while leaving mature irreversibility unresolved. Framework source, not independent empirical verification; not redistributed in this public repository.

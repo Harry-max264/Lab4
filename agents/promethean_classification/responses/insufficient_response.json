@@ -2,7 +2,7 @@
   "agent": {
     "name": "Promethean Technology Classification Agent",
     "specialty": "Scale and breadth of technological significance",
-    "version": "1.0"
+    "version": "1.1"
   },
   "analytical_question": "Is the technology incremental, breakthrough or potentially Promethean, and how much should that influence this application decision?",
   "general_et_finding": "Abstain: unspecified technology X has no defined baseline, verified capability or credible breadth/structural mechanism. No significance category is supportable from the vendor adjective alone.",

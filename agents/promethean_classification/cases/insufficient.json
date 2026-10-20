@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Unspecified new cognitive technology X",
+  "intended_application": "Draft customer-service replies for human approval",
+  "organization": "Hypothetical midsize online retailer",
+  "industry_sector": "Retail",
+  "business_need": "Reduce repetitive response effort without lowering answer quality",
+  "users_stakeholders": "Support agents, customers, support manager and privacy officer",
+  "adoption_posture": "Aggressive learning posture",
+  "capabilities_constraints": "Approved knowledge base; small pilot budget; human approval of every reply; no payment or account-change tools",
+  "risk_consequence_context": "Incorrect answers and privacy disclosure; reversible drafts; no autonomous sending",
+  "management_question": "Should management fund a bounded pilot rather than organization-wide rollout?",
+  "time_horizon": "8-week pilot; broader significance considered over 10-20 years",
+  "additional_context": "Only a vendor claim of revolutionary capabilities is available; no method, baseline, independent test or deployment evidence."
+}

@@ -1,0 +1,52 @@
+{
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Scale and breadth of technological significance",
+    "version": "1.0"
+  },
+  "analytical_question": "Is the technology incremental, breakthrough or potentially Promethean, and how much should that influence this application decision?",
+  "general_et_finding": "Breakthrough with potentially Promethean significance, qualified rather than established. Baseline: conventional templates, search and narrowly scripted text automation. Capability: flexible generation shows a meaningful task capability; S1 supplies field evidence of useful assistance. Breadth: S2 models effects across occupations, not realized cross-sector deployment. Structural depth: complementary software could reorganize knowledge work, an inference rather than a demonstrated civilizational transition. Diffusion/complements: integration, skills, trusted data and governance are necessary; supplied evidence does not establish critical mass. Durability: long-term net effects are unresolved. Over a 10-20 year horizon, Promethean potential is plausible with low-to-moderate confidence; breakthrough is better supported. No claim that civilization-changing outcomes are inevitable.",
+  "application_finding": "Autonomous clinical recommendations could deeply change a high-consequence workflow, but neither S1 nor S2 establishes clinical safety or effectiveness.",
+  "organization_specific_finding": "The hospital lacks local validation and monitoring capacity. Irreversible harm and missing safety evidence warrant deferral of the proposed autonomous workflow regardless of broader potential.",
+  "evidence": [
+    {
+      "claim": "A field study reports heterogeneous customer-support productivity gains with AI assistance.",
+      "source_or_reference": "Brynjolfsson, Li and Raymond, Generative AI at Work, https://arxiv.org/abs/2304.11771v2",
+      "date_or_recency": "2024-11-06 revision; abstract inspected 2026-10-19",
+      "evidence_type": "Original empirical research abstract",
+      "notes": "One deployment, not universal ROI; used qualitatively because earlier and revised versions differ."
+    },
+    {
+      "claim": "Task-exposure analysis indicates a pathway to effects across occupations and a role for complementary software.",
+      "source_or_reference": "Eloundou et al., GPTs are GPTs, https://arxiv.org/abs/2303.10130v5",
+      "date_or_recency": "2023-08-21 revision; abstract inspected 2026-10-19",
+      "evidence_type": "Original modeled exposure research abstract",
+      "notes": "Exposure is not realized adoption or durable societal transformation; authors do not forecast adoption timing."
+    },
+    {
+      "claim": "Generative AI can produce erroneous content and create overreliance and privacy risks.",
+      "source_or_reference": "NIST AI 600-1, https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+      "date_or_recency": "2024-07-26; report text inspected 2026-10-19",
+      "evidence_type": "Authoritative risk profile",
+      "notes": "Sections 2.2, 2.4 and 2.7; risk taxonomy, not evidence of clinical efficacy or binding approval."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "S1 is one customer-support setting with heterogeneous gains; transfer and net local benefit are unproven.",
+    "S2 is modeled task exposure, not demonstrated structural change, adoption timing or job displacement.",
+    "S3 identifies reliability and governance problems; durable benefits depend on complements and controls.",
+    "The evidence snapshot is limited and older than the review date; no comprehensive latest-market assessment or course Chapter 11 text was available."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in breakthrough; low-to-moderate confidence in Promethean potential; low confidence in unmeasured local ROI. General confidence is unchanged by organizational posture.",
+  "value_opportunity_implication": "Potential access benefits are hypothetical; they require application-specific clinical evidence and cannot be inferred from customer-support results.",
+  "risk_governance_implication": "Require qualified clinical and institutional review, application-specific validation and a defensible safety case; this specialist supplies no clinical or legal authorization.",
+  "recommendation_management_implication": "Defer the proposed autonomous clinical deployment. Consider only separately governed offline research if institutional reviewers approve it.",
+  "change_monitoring_triggers": [
+    "Reconsider only after appropriate reviewers assess application-specific validation, oversight and monitoring capacity.",
+    "New general AI capabilities alone do not remove the local evidence requirement."
+  ],
+  "abstention_or_more_information_needed": [
+    "Abstain from any clinical safety, efficacy or compliance judgment.",
+    "Need application-specific evaluation, accountable clinical oversight and a verified safety case before reconsideration."
+  ]
+}

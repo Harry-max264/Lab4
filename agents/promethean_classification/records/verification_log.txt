@@ -1,0 +1,13 @@
+Executed 2026-10-19 in development environment
+/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_contrast_1_prompt.txt
+contrast_1: VALIDATION PASSED
+/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_contrast_2_prompt.txt
+contrast_2: VALIDATION PASSED
+/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_hype_prompt.txt
+hype: VALIDATION PASSED
+/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_insufficient_prompt.txt
+insufficient: VALIDATION PASSED
+/workspace/scratch/9b14d27d9894/scaffold/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_classification_primary_prompt.txt
+primary: VALIDATION PASSED
+FROZEN CORE INTACT
+PASS: broad finding invariant across three contexts and hype; three contextual actions differ.

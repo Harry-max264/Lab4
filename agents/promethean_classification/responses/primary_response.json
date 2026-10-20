@@ -1,0 +1,53 @@
+{
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Scale and breadth of technological significance",
+    "version": "1.0"
+  },
+  "analytical_question": "Is the technology incremental, breakthrough or potentially Promethean, and how much should that influence this application decision?",
+  "general_et_finding": "Breakthrough with potentially Promethean significance, qualified rather than established. Baseline: conventional templates, search and narrowly scripted text automation. Capability: flexible generation shows a meaningful task capability; S1 supplies field evidence of useful assistance. Breadth: S2 models effects across occupations, not realized cross-sector deployment. Structural depth: complementary software could reorganize knowledge work, an inference rather than a demonstrated civilizational transition. Diffusion/complements: integration, skills, trusted data and governance are necessary; supplied evidence does not establish critical mass. Durability: long-term net effects are unresolved. Over a 10-20 year horizon, Promethean potential is plausible with low-to-moderate confidence; breakthrough is better supported. No claim that civilization-changing outcomes are inevitable.",
+  "application_finding": "Reply drafting could improve a bounded workflow; this is locally incremental operational value, not evidence that the application is civilization-changing.",
+  "organization_specific_finding": "The retailer has an approved knowledge base and human review, supporting reversible learning; its aggressive posture changes willingness to experiment, not technological significance.",
+  "evidence": [
+    {
+      "claim": "A field study reports heterogeneous customer-support productivity gains with AI assistance.",
+      "source_or_reference": "Brynjolfsson, Li and Raymond, Generative AI at Work, https://arxiv.org/abs/2304.11771v2",
+      "date_or_recency": "2024-11-06 revision; abstract inspected 2026-10-19",
+      "evidence_type": "Original empirical research abstract",
+      "notes": "One deployment, not universal ROI; used qualitatively because earlier and revised versions differ."
+    },
+    {
+      "claim": "Task-exposure analysis indicates a pathway to effects across occupations and a role for complementary software.",
+      "source_or_reference": "Eloundou et al., GPTs are GPTs, https://arxiv.org/abs/2303.10130v5",
+      "date_or_recency": "2023-08-21 revision; abstract inspected 2026-10-19",
+      "evidence_type": "Original modeled exposure research abstract",
+      "notes": "Exposure is not realized adoption or durable societal transformation; authors do not forecast adoption timing."
+    },
+    {
+      "claim": "Generative AI can produce erroneous content and create overreliance and privacy risks.",
+      "source_or_reference": "NIST AI 600-1, https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+      "date_or_recency": "2024-07-26; report text inspected 2026-10-19",
+      "evidence_type": "Authoritative risk profile",
+      "notes": "Sections 2.2, 2.4 and 2.7; risk taxonomy, not evidence of clinical efficacy or binding approval."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "S1 is one customer-support setting with heterogeneous gains; transfer and net local benefit are unproven.",
+    "S2 is modeled task exposure, not demonstrated structural change, adoption timing or job displacement.",
+    "S3 identifies reliability and governance problems; durable benefits depend on complements and controls.",
+    "The evidence snapshot is limited and older than the review date; no comprehensive latest-market assessment or course Chapter 11 text was available."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in breakthrough; low-to-moderate confidence in Promethean potential; low confidence in unmeasured local ROI. General confidence is unchanged by organizational posture.",
+  "value_opportunity_implication": "Learning about response quality and staff effort may have option value; compare benefits after reviewer time and integration cost.",
+  "risk_governance_implication": "Keep a human responsible for every outbound answer; restrict data and tools, audit factual errors, and route exceptions to staff. Risk guidance is not compliance certification.",
+  "recommendation_management_implication": "From this specialist perspective, consider a bounded human-reviewed pilot, subject to value and risk review. Broad significance supports learning, not automatic rollout.",
+  "change_monitoring_triggers": [
+    "Reassess after the 8-week pilot against pre-agreed quality, total effort and cost baselines; management must set acceptance thresholds before running.",
+    "Pause customer-facing use for a material privacy incident or repeated unsupported answers; investigate before restarting.",
+    "Revisit broad classification when replicated cross-sector evidence demonstrates persistent structural change or undermines the claimed mechanism."
+  ],
+  "abstention_or_more_information_needed": [
+    "Do not endorse full rollout without local quality, cost, data-rights and operational evidence.",
+    "Reverify current model-specific capabilities and sources before a real management decision."
+  ]
+}

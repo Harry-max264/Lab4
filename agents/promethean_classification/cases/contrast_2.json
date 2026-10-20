@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI based on large language models for text tasks",
+  "intended_application": "Draft customer-service replies for human approval",
+  "organization": "Hypothetical midsize online retailer",
+  "industry_sector": "Retail",
+  "business_need": "Reduce repetitive response effort without lowering answer quality",
+  "users_stakeholders": "Support agents, customers, support manager and privacy officer",
+  "adoption_posture": "Conservative; requires offline evaluation before customer-facing use",
+  "capabilities_constraints": "Approved knowledge base; small pilot budget; human approval of every reply; no payment or account-change tools",
+  "risk_consequence_context": "Incorrect answers and privacy disclosure; reversible drafts; no autonomous sending",
+  "management_question": "Should management fund a bounded pilot rather than organization-wide rollout?",
+  "time_horizon": "8-week pilot; broader significance considered over 10-20 years",
+  "additional_context": "Hypothetical organizational facts, not measured company data. Same verified evidence snapshot across tests:\n[{\"claim\": \"A field study reports heterogeneous customer-support productivity gains with AI assistance.\", \"source_or_reference\": \"Brynjolfsson, Li and Raymond, Generative AI at Work, https://arxiv.org/abs/2304.11771v2\", \"date_or_recency\": \"2024-11-06 revision; abstract inspected 2026-10-19\", \"evidence_type\": \"Original empirical research abstract\", \"notes\": \"One deployment, not universal ROI; used qualitatively because earlier and revised versions differ.\"}, {\"claim\": \"Task-exposure analysis indicates a pathway to effects across occupations and a role for complementary software.\", \"source_or_reference\": \"Eloundou et al., GPTs are GPTs, https://arxiv.org/abs/2303.10130v5\", \"date_or_recency\": \"2023-08-21 revision; abstract inspected 2026-10-19\", \"evidence_type\": \"Original modeled exposure research abstract\", \"notes\": \"Exposure is not realized adoption or durable societal transformation; authors do not forecast adoption timing.\"}, {\"claim\": \"Generative AI can produce erroneous content and create overreliance and privacy risks.\", \"source_or_reference\": \"NIST AI 600-1, https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf\", \"date_or_recency\": \"2024-07-26; report text inspected 2026-10-19\", \"evidence_type\": \"Authoritative risk profile\", \"notes\": \"Sections 2.2, 2.4 and 2.7; risk taxonomy, not evidence of clinical efficacy or binding approval.\"}]"
+}
